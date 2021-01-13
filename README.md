@@ -1,0 +1,1 @@
+# proj_opcv_py_OCR_text_detection
